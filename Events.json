@@ -27,7 +27,7 @@
         "name": "New Year's Day",
         "message": {
           "title": "Happy New Year!",
-          "body": "Enjoy your New Year's gift of 25 points!"
+          "body": "Enjoy your New Year's gift of 10 points!"
         }
       },
       {
@@ -35,7 +35,7 @@
         "name": "Easter Monday",
         "message": {
           "title": "Easter Monday Special!",
-          "body": "Enjoy your Easter Monday gift of 25 points!"
+          "body": "Enjoy your Easter Monday gift of 10 points!"
         }
       },
       {
@@ -43,7 +43,7 @@
         "name": "Labour Day",
         "message": {
           "title": "Labour Day Bonus!",
-          "body": "Enjoy your Labour Day gift of 25 points!"
+          "body": "Enjoy your Labour Day gift of 10 points!"
         }
       },
       {
@@ -51,7 +51,7 @@
         "name": "Madaraka Day",
         "message": {
           "title": "Madaraka Day Rewards!",
-          "body": "Enjoy your Madaraka Day gift of 25 points!"
+          "body": "Enjoy your Madaraka Day gift of 10 points!"
         }
       },
       {
@@ -59,7 +59,7 @@
         "name": "Huduma Day",
         "message": {
           "title": "Huduma Day Gift!",
-          "body": "Enjoy your Huduma Day gift of 25 points!"
+          "body": "Enjoy your Huduma Day gift of 10 points!"
         }
       },
       {
@@ -67,7 +67,7 @@
         "name": "Mashujaa Day",
         "message": {
           "title": "Happy Mashujaa Day!",
-          "body": "Enjoy your Mashujaa Day gift of 25 points!"
+          "body": "Enjoy your Mashujaa Day gift of 10 points!"
         }
       },
       {
@@ -75,7 +75,7 @@
         "name": "Jamhuri Day",
         "message": {
           "title": "Happy Jamhuri Day!",
-          "body": "Enjoy your Jamhuri Day gift of 25 points!"
+          "body": "Enjoy your Jamhuri Day gift of 10 points!"
         }
       },
       {
@@ -83,7 +83,7 @@
         "name": "Christmas Day",
         "message": {
           "title": "Merry Christmas!",
-          "body": "Enjoy your Christmas gift of 25 points!"
+          "body": "Enjoy your Christmas gift of 10 points!"
         }
       },
       {
@@ -91,7 +91,7 @@
         "name": "Boxing Day",
         "message": {
           "title": "Boxing Day Bonus!",
-          "body": "Enjoy your Boxing Day gift of 25 points!"
+          "body": "Enjoy your Boxing Day gift of 10 points!"
         }
       }
     ]
